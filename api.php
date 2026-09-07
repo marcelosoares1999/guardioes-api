@@ -16,4 +16,3 @@ if ($action === 'fila_disparo') {
     exit;
 }
 echo json_encode(["sucesso"=>false]);
-}
